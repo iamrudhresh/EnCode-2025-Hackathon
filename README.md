@@ -45,6 +45,7 @@ This project presents our approach to fulfilling these requirements by combining
 Below is an overview of the repository’s file and folder hierarchy:
 
 ```bash
+
 iamrudhresh-encode-2025-hackathon/
 ├── components.json
 ├── next.config.js
