@@ -44,7 +44,7 @@ This project presents our approach to fulfilling these requirements by combining
 ## 📂 File Structure
 Below is an overview of the repository’s file and folder hierarchy:
 
-```plaintext
+```bash
 iamrudhresh-encode-2025-hackathon/
 ├── components.json
 ├── next.config.js
@@ -192,13 +192,6 @@ iamrudhresh-encode-2025-hackathon/
 
 ---
 
-## 🏆 Competition Submission
-**Submitted to**: *ENCODE: CODE TO INNOVATE*  
-**Deadline**: *14th January, 11:59 PM*  
-**Submission Link**: [https://forms.gle/S12SPDRFKQpJzTZf8](https://forms.gle/S12SPDRFKQpJzTZf8)
-
----
-
 ## ⚖️ License
 This project is licensed under the [MIT License](LICENSE) (or choose your preferred license). Feel free to modify the code for your own purposes while respecting the license terms.
 
@@ -210,7 +203,4 @@ For questions, collaboration, or additional support, feel free to reach out via:
 - **Email**: [officialrudhresh@gmail.com](mailto:officialrudhresh@gmail.com)  
 - **GitHub**: [iamrudhresh](https://github.com/iamrudhresh)  
 
-We welcome contributions and feedback to make **Encode AI Phone Agent** even better!
-
-**Happy Hacking and Good Luck!** ✨
 ```
