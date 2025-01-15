@@ -195,5 +195,3 @@ For questions, collaboration, or additional support, feel free to reach out via:
 
 - **Email**: [officialrudhresh@gmail.com](mailto:officialrudhresh@gmail.com)  
 - **GitHub**: [iamrudhresh](https://github.com/iamrudhresh)  
-
-```
