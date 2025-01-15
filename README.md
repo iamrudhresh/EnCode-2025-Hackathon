@@ -1,10 +1,8 @@
-```markdown
 # Encode AI Phone Agent 🚀🤖
 
 > **ENCODE: CODE TO INNOVATE** – In Collaboration with **Smallest.ai**  
 > This repository contains an AI Phone Agent solution designed to cold call specific customer profiles, hold meaningful conversations, and close sales. The focus is on delivering a **robust**, **low-latency**, and **high-quality** voice interaction experience.
 
----
 
 ## 📜 Table of Contents
 1. [Project Overview](#project-overview)  
@@ -22,12 +20,9 @@
 10. [License](#license)  
 11. [Contact](#contact)  
 
----
 
 ## 🎯 Project Overview
 Encode AI Phone Agent is a project designed to **automate phone interactions** using artificial intelligence. The system can cold call potential customers, maintain a natural-sounding conversation, and ultimately close sales. By integrating advanced text-to-speech (TTS), speech recognition, and conversation flow management, this solution aims to **streamline business processes** and **improve customer engagement**.
-
----
 
 ## ❓ Problem Statement
 > **Challenge**: Build an AI phone agent that can cold call specific types of customers, hold meaningful conversations, and close sales.  
@@ -39,13 +34,10 @@ Participants are encouraged to use APIs and tools where needed, but the focus re
 
 This project presents our approach to fulfilling these requirements by combining advanced speech technologies and a modular, extensible architecture.
 
----
-
 ## 📂 File Structure
 Below is an overview of the repository’s file and folder hierarchy:
 
 ```bash
-
 iamrudhresh-encode-2025-hackathon/
 ├── components.json
 ├── next.config.js
